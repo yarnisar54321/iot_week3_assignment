@@ -25,8 +25,8 @@ export const config = {
   runtime: "edge",
 };
 
-export default handle(app.fetch);
-// export default app
+// export default handle(app.fetch);
+export default app.fetch;
 
 // serve(
 //   {
