@@ -4,5 +4,5 @@ npm run dev
 ```
 
 ```
-open http://localhost:3000
+https://iot-week3-assignment.vercel.app/
 ```
